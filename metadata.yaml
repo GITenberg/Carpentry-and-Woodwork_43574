@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42307'
     url: http://www.gutenberg.org/2009/agents/42307
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43574#Carpentry-and-Woodwork
 gutenberg_issued: '2013-08-27'
 gutenberg_type: Text
 identifiers:
